@@ -53,19 +53,19 @@ const Index = () => {
 
   const testimonials = [
     {
-      name: "Michael R.",
+      name: "Vipul K.",
       case: "Matrimonial Dispute",
       text: "After two years of legal battles, Shield & Justice helped me secure fair custody of my children. Their expertise in men's rights made all the difference.",
       rating: 5
     },
     {
-      name: "David K.",
+      name: "Shivam S.",
       case: "Workplace Harassment",
       text: "When I faced false allegations at work, their team acted swiftly to protect my career and reputation. Professional and discreet throughout.",
       rating: 5
     },
     {
-      name: "James M.",
+      name: "Rajinder D.",
       case: "Criminal Defense",
       text: "In my darkest hour, they stood by me with unwavering support. Their expertise and dedication helped clear my name completely.",
       rating: 5
