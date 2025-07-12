@@ -115,7 +115,7 @@ const Index = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <Button size="lg" className="text-lg px-8 py-6">
               <Phone className="h-5 w-5 mr-2" />
-              Free Consultation
+              +91 917404094
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-8 py-6">
               <ArrowDown className="h-5 w-5 mr-2" />
@@ -305,7 +305,7 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-primary mb-2">1-800-SHIELD-1</p>
+                  <p className="text-2xl font-bold text-primary mb-2">+91 917404094</p>
                   <p className="text-muted-foreground mb-4">Available 24/7 for urgent matters</p>
                   <Button className="w-full">Call Now</Button>
                 </CardContent>
@@ -319,7 +319,7 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-semibold mb-2">contact@shieldandjusticeformen.com</p>
+                  <p className="text-lg font-semibold mb-2">sheildandjustce@gmail.com</p>
                   <p className="text-muted-foreground mb-4">Confidential email consultation</p>
                   <Button variant="outline" className="w-full">Send Email</Button>
                 </CardContent>
@@ -370,8 +370,8 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-sm opacity-80">
-                <li>1-800-SHIELD-1</li>
-                <li>contact@shieldandjusticeformen.com</li>
+                <li>+91 917404094</li>
+                <li>sheildandjustce@gmail.com</li>
                 <li>24/7 Emergency Line</li>
               </ul>
             </div>
@@ -386,7 +386,7 @@ const Index = () => {
           </div>
           <Separator className="my-8 opacity-20" />
           <div className="text-center text-sm opacity-80">
-            <p>&copy; 2024 Shield & Justice for Men. All rights reserved. | Licensed to practice in all 50 states.</p>
+            <p>&copy; 2025 Shield & Justice for Men. All rights reserved.</p>
           </div>
         </div>
       </footer>
